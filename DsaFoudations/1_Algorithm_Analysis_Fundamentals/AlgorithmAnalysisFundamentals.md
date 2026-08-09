@@ -448,7 +448,7 @@ In many algorithm problems, **space complexity is discussed mainly in terms of a
 
 ## Why Does Space Complexity Matter in Coding Even When Using the Best Algorithm?
 
-Yes, even if you choose the best algorithm in terms of time, **space complexity still matters**.
+Even if you choose the best algorithm in terms of time, **space complexity still matters**.
 
 The reason is simple:
 
