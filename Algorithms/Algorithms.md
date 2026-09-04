@@ -58,7 +58,7 @@ The goal is to understand:
 - Recursion
 - Backtracking
 - Divide and Conquer
-
+- Sparse Matrix Multiplication
 ### Backtracking Problems
 
 - Permutations
