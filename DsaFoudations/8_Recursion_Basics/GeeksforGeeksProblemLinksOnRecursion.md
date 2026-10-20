@@ -1,0 +1,56 @@
+# GeeksforGeeks Recursion Problems
+
+## Beginner
+
+1. [Factorial](https://www.geeksforgeeks.org/problems/factorial5739/1)
+2. [Sum of First N Terms](https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1)
+3. [Print 1 to N without using loops](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1)
+4. [Print N to 1 without loop](https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1)
+5. [Print GFG n times](https://www.geeksforgeeks.org/problems/print-gfg-n-times/1)
+6. [Nth Fibonacci Number](https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1)
+7. [Power of Numbers](https://www.geeksforgeeks.org/problems/power-of-numbers-1587115620/1)
+8. [Sum of Digits](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1)
+9. [Palindrome String](https://www.geeksforgeeks.org/problems/palindrome-string0817/1)
+10. [Reverse a String](https://www.geeksforgeeks.org/problems/reverse-a-string/1)
+11. [GCD of Two Numbers](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1)
+12. [Count Ways to Reach the Nth Stair](https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1)
+13. [Print Pattern](https://www.geeksforgeeks.org/problems/print-pattern3549/1)
+14. [Count Number of Hops](https://www.geeksforgeeks.org/problems/count-number-of-hops-1587115620/1)
+
+## Intermediate
+
+1. [Tower of Hanoi](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1)
+2. [Josephus Problem](https://www.geeksforgeeks.org/problems/josephus-problem/1)
+3. [Subsets](https://www.geeksforgeeks.org/problems/subsets-1613027340/1)
+4. [Power Set](https://www.geeksforgeeks.org/problems/power-set4302/1)
+5. [Subset Sums](https://www.geeksforgeeks.org/problems/subset-sums2234/1)
+6. [Permutations of a Given String](https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)
+7. [Permutation with Spaces](https://www.geeksforgeeks.org/problems/permutation-with-spaces3627/1)
+8. [Print N-bit Binary Numbers Having More 1s Than 0s](https://www.geeksforgeeks.org/problems/print-n-bit-binary-numbers-having-more-1s-than-0s0252/1)
+9. [Generate All Possible Parentheses](https://www.geeksforgeeks.org/problems/generate-all-possible-parentheses/1)
+10. [Reverse a Stack](https://www.geeksforgeeks.org/problems/reverse-a-stack/1)
+11. [Sort a Stack](https://www.geeksforgeeks.org/problems/sort-a-stack/1)
+12. [Decode the String](https://www.geeksforgeeks.org/problems/decode-the-string2444/1)
+13. [Friends Pairing Problem](https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1)
+14. [Lucky Numbers](https://www.geeksforgeeks.org/problems/lucky-numbers2911/1)
+15. [Possible Words From Phone Digits](https://www.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1)
+16. [Combination Sum](https://www.geeksforgeeks.org/problems/combination-sum-1587115620/1)
+
+## Advanced
+
+1. [Rat in a Maze Problem](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
+2. [N-Queen Problem](https://www.geeksforgeeks.org/problems/n-queen-problem0315/1)
+3. [Solve the Sudoku](https://www.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1)
+4. [M-Coloring Problem](https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1)
+5. [Word Break - Part 2](https://www.geeksforgeeks.org/problems/word-break-part-23249/1)
+6. [Find All Possible Palindromic Partitions of a String](https://www.geeksforgeeks.org/problems/find-all-possible-palindromic-partitions-of-a-string/1)
+7. [Largest Number in K Swaps](https://www.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1)
+8. [Expression Add Operators](https://www.geeksforgeeks.org/problems/expression-add-operators/1)
+9. [Partition Array to K Subsets](https://www.geeksforgeeks.org/problems/partition-array-to-k-subsets/1)
+10. [Hamiltonian Path](https://www.geeksforgeeks.org/problems/hamiltonian-path2522/1)
+11. [Word Boggle](https://www.geeksforgeeks.org/problems/word-boggle4143/1)
+12. [Word Search](https://www.geeksforgeeks.org/problems/word-search/1)
+13. [Combination Sum II](https://www.geeksforgeeks.org/problems/combination-sum-ii-1664263832/1)
+14. [Generate IP Addresses](https://www.geeksforgeeks.org/problems/generate-ip-addresses/1)
+15. [Flood Fill Algorithm](https://www.geeksforgeeks.org/problems/flood-fill-algorithm1856/1)
+16. [Longest Possible Route in a Matrix with Hurdles](https://www.geeksforgeeks.org/problems/longest-possible-route-in-a-matrix-with-hurdles/1)
